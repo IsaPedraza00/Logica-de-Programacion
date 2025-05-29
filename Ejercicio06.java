@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 import javax.swing.plaf.basic.BasicInternalFrameTitlePane.SystemMenuBar;
 
-public class EjercicioSeis {
+public class Ejercicio06 {
     public static void main(String[] args) {
         
         /* Haz un programa en Java que le pida al usuario el valor de su comida y le calcule la propina (10%). Luego, debe mostrar:

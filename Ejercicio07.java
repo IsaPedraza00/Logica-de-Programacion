@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EjercicioSiete {
+public class Ejercicio07 {
     public static void main(String[] args) {
 
          /*CALCULADORA DE DESCUENTOS EN UNA TIENDA
